@@ -10,3 +10,9 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+#VS CODE
+*.code-workspace
+.vscode
+bin
+pkg
